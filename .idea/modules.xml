@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/First-Steps-in-Coding-Exercise/First-Steps-in-Coding-Exercise.iml" filepath="$PROJECT_DIR$/src/First-Steps-in-Coding-Exercise/First-Steps-in-Coding-Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/ForLoop/ForLoop.iml" filepath="$PROJECT_DIR$/src/ForLoop/ForLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/NestedLoops/NestedLoops.iml" filepath="$PROJECT_DIR$/src/NestedLoops/NestedLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Soft Uni Basics.iml" filepath="$PROJECT_DIR$/Soft Uni Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/While/While.iml" filepath="$PROJECT_DIR$/src/While/While.iml" />
+    </modules>
+  </component>
+</project>
